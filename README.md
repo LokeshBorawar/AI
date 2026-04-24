@@ -1,5 +1,5 @@
 # AI
-AI projects and some algorithms. If you are seening this please take care of path in code
+AI projects and some algorithms. If you are seeing this please take care of path in code
 
 
 ResNet.ipynb is the implementation of paper named ResNet: Solving vanishing gradient in deep networks.
